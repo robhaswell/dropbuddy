@@ -11,4 +11,4 @@ import (
     . "github.com/lxn/walk/declarative"
 )
 
-// Make a combobox
+// Make a combobox: https://github.com/lxn/walk/blob/master/examples/databinding/databinding.go
